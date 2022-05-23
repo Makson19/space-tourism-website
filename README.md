@@ -67,7 +67,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Makson19/space-tourism-website)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://space-tourism-website-jet.vercel.app/)
 
 ## My process
 
